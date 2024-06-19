@@ -1,3 +1,5 @@
+package modelos;
+
 import com.google.gson.Gson;
 
 import java.io.IOException;
@@ -75,8 +77,8 @@ public class Conversao {
 
     @Override
     public String toString() {
-        return  "\nMoeda base: " + moeda.getMoedaBase() + "\n" +
-                "Moeda alvo: " + moeda.getMoedaAlvo() + "\n" +
+        return  "\nmodelos.Moeda base: " + moeda.getMoedaBase() + "\n" +
+                "modelos.Moeda alvo: " + moeda.getMoedaAlvo() + "\n" +
                 "rating: " + moeda.getTaxa() + "\n" +
                 "Valor inicial: "+ valorBase + "\n" +
                 "Valor final: "+ valorFinal ;

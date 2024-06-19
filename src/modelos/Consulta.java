@@ -1,3 +1,5 @@
+package modelos;
+
 import com.google.gson.Gson;
 
 import java.io.IOException;
@@ -21,6 +23,6 @@ public class Consulta {
 
         //System.out.println(json);
 
-        return new Gson().fromJson(json,MoedaAPI.class);
+        return new Gson().fromJson(json, MoedaAPI.class);
     }
 }

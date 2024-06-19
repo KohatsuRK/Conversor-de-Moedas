@@ -4,8 +4,8 @@ ____________________________________________________________________
 Horário das conversões: 19/06/2024-01:01:55
 
 [
-Moeda base: USD
-Moeda alvo: BRL
+modelos.Moeda base: USD
+modelos.Moeda alvo: BRL
 rating: 5.4234
 Valor inicial: 100.0
 Valor final: 542.34]____________________________________________________________________

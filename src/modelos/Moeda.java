@@ -1,3 +1,5 @@
+package modelos;
+
 public class Moeda {
     private String moeda;
     private String moedaAlvo;
@@ -24,7 +26,7 @@ public class Moeda {
 
     @Override
     public String toString() {
-        return "Moeda: " + moeda + "---> Cotações: " + taxa;
+        return "modelos.Moeda: " + moeda + "---> Cotações: " + taxa;
     }
 
 }

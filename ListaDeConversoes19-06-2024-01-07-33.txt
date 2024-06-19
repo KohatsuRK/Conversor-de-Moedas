@@ -4,8 +4,8 @@ ____________________________________________________________________
 Horário das conversões: 19/06/2024-01:07:33
 
 
-Moeda base: USD
-Moeda alvo: ARS
+modelos.Moeda base: USD
+modelos.Moeda alvo: ARS
 rating: 905.42
 Valor inicial: 100.0
 Valor final: 90542.0

@@ -1,3 +1,7 @@
+import modelos.Consulta;
+import modelos.Conversao;
+import modelos.GeradorDeArquivo;
+
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
