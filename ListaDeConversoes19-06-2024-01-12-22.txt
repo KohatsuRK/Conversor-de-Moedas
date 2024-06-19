@@ -1,0 +1,23 @@
+====================================================================
+Aqui está seu recibo com suas trocas! =)
+____________________________________________________________________
+Horário das conversões: 19/06/2024-01:12:22
+
+
+Moeda base: USD
+Moeda alvo: ARS
+rating: 905.42
+Valor inicial: 1000.0
+Valor final: 905420.0, 
+Moeda base: USD
+Moeda alvo: BRL
+rating: 5.4234
+Valor inicial: 90.0
+Valor final: 488.106, 
+Moeda base: BRL
+Moeda alvo: USD
+rating: 0.1844
+Valor inicial: 100.0
+Valor final: 18.44
+____________________________________________________________________
+BY: Renan Kohatsu :)

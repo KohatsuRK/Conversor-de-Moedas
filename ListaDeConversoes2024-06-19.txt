@@ -1,0 +1,11 @@
+[
+Moeda base: BRL
+Moeda alvo: EUR
+rating: 0.172
+Valor inicial: 1000.0
+Valor final: 172.0, 
+Moeda base: EUR
+Moeda alvo: BRL
+rating: 5.8156
+Valor inicial: 1000.0
+Valor final: 5815.599999999999]

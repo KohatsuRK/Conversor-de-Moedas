@@ -1,0 +1,32 @@
+====================================================================
+Aqui está seu recibo com suas trocas! =)
+____________________________________________________________________
+Horário das conversões: 19/06/2024-01:08:29
+
+
+Moeda base: USD
+Moeda alvo: EUR
+rating: 0.9314
+Valor inicial: 100.0
+Valor final: 93.14, 
+Moeda base: EUR
+Moeda alvo: USD
+rating: 1.0736
+Valor inicial: 90.0
+Valor final: 96.62400000000001, 
+Moeda base: EUR
+Moeda alvo: BRL
+rating: 5.8156
+Valor inicial: 1000.0
+Valor final: 5815.599999999999, 
+Moeda base: BRL
+Moeda alvo: USD
+rating: 0.1844
+Valor inicial: 1000.0
+Valor final: 184.4, 
+Moeda base: USD
+Moeda alvo: BRL
+rating: 5.4234
+Valor inicial: 89000.0
+Valor final: 482682.6
+____________________________________________________________________
